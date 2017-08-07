@@ -14,7 +14,7 @@ A fully functional contact form.
 ## <a name="technologies">Technologies used</a>
 
 * Node.js
-* Express
+* Express.js
 * Nodemailer
 
 ## <a name="compatibility">Cross-browser compatibility</a>
